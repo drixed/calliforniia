@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cb64704a-cc72-4807-9f89-be2344e7cb3f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/asset/1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/asset/10.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/asset/2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/asset/3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/asset/4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/asset/5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/asset/6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/asset/7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/asset/8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/asset/9.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/asset/auth/verified2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/asset/auth/verify2.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/Screens/Chat/Matches.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/Screens/Chat/Matches.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/Screens/Chat/chat_screen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/Screens/Chat/chat_screen.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/Screens/Chat/recent_chats.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/Screens/Chat/recent_chats.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/Screens/Home.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/Screens/Home.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/Screens/Information.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/Screens/Information.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/Screens/Profile/EditProfile.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/Screens/Profile/EditProfile.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/Screens/Profile/profile.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/Screens/Profile/profile.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/Screens/Profile/settings.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/Screens/Profile/settings.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/Screens/auth/otp_verification.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/Screens/auth/otp_verification.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/Screens/notifications.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/Screens/notifications.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/models/message_model.dart" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="135" />
+    <option name="y" value="47" />
+    <option name="width" value="1400" />
+    <option name="height" value="833" />
+  </component>
+  <component name="ProjectId" id="1YZV4N1pYkOapDk0flLO39ajVYb" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="dart.analysis.tool.window.force.activate" value="false" />
+    <property name="io.flutter.reload.alreadyRun" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cb64704a-cc72-4807-9f89-be2344e7cb3f" name="Default Changelist" comment="" />
+      <created>1580366322685</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580366322685</updated>
+    </task>
+    <servers />
+  </component>
+</project>
